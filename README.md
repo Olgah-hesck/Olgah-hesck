@@ -2,7 +2,7 @@
 
 - 👋 Oi, meu nome é Olgah-hesck 
 - 👀 Estou interessada em aprender mais sobre o mundo da programação  
-- 🌱 Atualmente estou estudando no primeiro ano do ensino médio 
+- 🌱 Atualmente estou estudando no segundo ano do ensino médio 
 - 📫 Meu email é Olga.hesck@escola.pr.gov 
 
 <!---
